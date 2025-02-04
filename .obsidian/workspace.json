@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a93be17a1b217aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/프로필 꾸미기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "옵시디언/테마 설정.md",
+                "file": "GitHub/프로필 꾸미기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "옵시디언/테마 설정.md",
+                "file": "GitHub/프로필 꾸미기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "옵시디언/테마 설정.md"
+                "file": "GitHub/프로필 꾸미기.md"
               }
             }
           }
@@ -171,13 +183,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "290252ac8ce2adf4",
+  "active": "9a93be17a1b217aa",
   "lastOpenFiles": [
-    "GitHub/프로필 꾸미기.md",
-    "images/옵시디언/코드 블럭 줄바꿈/1.png",
-    "옵시디언/콜아웃.md",
     "옵시디언/테마 설정.md",
+    "옵시디언/콜아웃.md",
+    "GitHub/프로필 꾸미기.md",
     "자기 소개.md",
+    "무제 파일.md",
+    "images/옵시디언/코드 블럭 줄바꿈/1.png",
     "images/옵시디언/테마 설정/1.png",
     "images/GitHub",
     "images/GitHub/프로필 꾸미기/1.png",
